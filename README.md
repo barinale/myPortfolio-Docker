@@ -12,13 +12,9 @@ To run the app using Docker:
    
 3. **Run the Docker container:**   
 
-
-🚀 Start the container:
-
-Copy code
-
 docker run -p 3000:3000 my-react-app
 
+## Running with npm
 
 ### `npm start`
 
