@@ -2,9 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Running with Docker
+
+To run the app using Docker:
+
+1. **Build the Docker image:**
+   docker build -t my-react-app .
+   
+3. **Run the Docker container:**   
+
+
+🚀 Start the container:
+
+Copy code
+
+docker run -p 3000:3000 my-react-app
+
 
 ### `npm start`
 
